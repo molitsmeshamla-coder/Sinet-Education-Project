@@ -1,0 +1,13 @@
+ .button{
+    border-radius : 4px;
+    padding-top : 4px;
+    padding-bottom : 4px;
+    color : white;
+    text-shadow: 4px 4px 4px grey;
+    border-style: none;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 11px;
+    padding-right: 11px;
+    
+}
